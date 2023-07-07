@@ -1,0 +1,4 @@
+#Fri Jul 07 14:56:46 EEST 2023
+base.0=/Users/alexandraganea/GitPROJECTS/bookshop_new/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
